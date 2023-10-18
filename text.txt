@@ -1,0 +1,6 @@
+
+ШАБЛОН ДЛЯ ЛЮБОЙ HTML ВНУТРИ КОТОРОГО ПИШЕТСЯ ВЕСЬ КОД
+
+document.aadEventListener("DOMContentLoaded", () => {
+
+})
